@@ -24,6 +24,21 @@ const blocksAndItems = [
         description: "Palito usado para muitos crafts."
     },
     {
+        name: "Couro",
+        image: "file:///F:/Minecraft/Itens/Couro.jpg",
+        description: "Bota forte."
+    },
+    {
+        name: "Ferro",
+        image: "file:///F:/Minecraft/Itens/Iron.jpg",
+        description: "Bota forte."
+    },
+    {
+        name: "Ouro",
+        image: "file:///F:/Minecraft/Itens/Ouro.jpg",
+        description: "Bota forte."
+    },
+    {
         name: "Diamante",
         image: "file:///F:/Minecraft/Itens/Diamante.jpg",
         description: "Minerio muito rico."
