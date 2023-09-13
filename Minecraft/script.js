@@ -90,6 +90,26 @@ const blocksAndItems = [
         description: "Mediano"
     },
     {
+        name: "CapaceteOuro",
+        image: "file:///F:/Minecraft/Itens/CapaceteOuro.jpg",
+        description: "Forte, Pouca Durabilidade"
+    },
+    {
+        name: "PeitoralOuro",
+        image: "file:///F:/Minecraft/Itens/PeitoralOuro.jpg",
+        description: "Forte, Pouca Durabilidade"
+    },
+    {
+        name: "CalcaOuro",
+        image: "file:///F:/Minecraft/Itens/CalcaOuro.jpg",
+        description: "Forte, Pouca Durabilidade"
+    },
+    {
+        name: "BotaOuro",
+        image: "file:///F:/Minecraft/Itens/BotaOuro.jpg",
+        description: "Forte, Pouca Durabilidade"
+    },
+    {
         name: "CapaceteDiamante",
         image: "file:///F:/Minecraft/Itens/Capacete_Diamante.jpg",
         description: "Capacete forte."
