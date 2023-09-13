@@ -70,6 +70,26 @@ const blocksAndItems = [
         description: "Fraco pouca proteção."
     },
     {
+        name: "CapaceteFerro",
+        image: "file:///F:/Minecraft/Itens/CapaceteFerro.jpg",
+        description: "Mediano"
+    },
+    {
+        name: "PeitoralFerro",
+        image: "file:///F:/Minecraft/Itens/PeitoralFerro.jpg",
+        description: "Mediano"
+    },
+    {
+        name: "CalcaFerro",
+        image: "file:///F:/Minecraft/Itens/CalcaFerro.jpg",
+        description: "Mediano"
+    },
+    {
+        name: "BotaFerro",
+        image: "file:///F:/Minecraft/Itens/BotaFerro.jpg",
+        description: "Mediano"
+    },
+    {
         name: "CapaceteDiamante",
         image: "file:///F:/Minecraft/Itens/Capacete_Diamante.jpg",
         description: "Capacete forte."
