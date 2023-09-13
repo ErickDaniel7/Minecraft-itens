@@ -50,6 +50,26 @@ const blocksAndItems = [
         description: "Material para queimar na fornalha."
     },
     {
+        name: "CapaceteCouro",
+        image: "file:///F:/Minecraft/Itens/CapaceteCouro.jpg",
+        description: "Fraco pouca proteção."
+    },
+    {
+        name: "PeitoralCouro",
+        image: "file:///F:/Minecraft/Itens/PeitoralCouro.jpg",
+        description: "Fraco pouca proteção."
+    },
+    {
+        name: "CalcaCouro",
+        image: "file:///F:/Minecraft/Itens/CalcaCouro.jpg",
+        description: "Fraco pouca proteção."
+    },
+    {
+        name: "BotaCouro",
+        image: "file:///F:/Minecraft/Itens/BotaCouro.jpg",
+        description: "Fraco pouca proteção."
+    },
+    {
         name: "CapaceteDiamante",
         image: "file:///F:/Minecraft/Itens/Capacete_Diamante.jpg",
         description: "Capacete forte."
