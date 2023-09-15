@@ -70,5 +70,26 @@ header {
     display: block;
 }
 
+/* Estilo fornalha em construção....
 
+.Furnace {
+    max-width: 800px;
+    margin: 20px auto;
+    padding: 20px;
+    background-color: rgb(255, 255, 255);
+    border-radius: 5px;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+
+}
+
+#Materials&Fuel {
+    width: 100%;
+    padding: 10px;
+    margin-bottom: 20px;
+
+}
+
+.Funace item result {
+    text-align: center; 
+*/
 
