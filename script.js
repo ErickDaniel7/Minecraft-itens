@@ -22,17 +22,17 @@ const blocksAndItems = [
     {
         name: "Couro",
         image: "file:///F:/Minecraft/Itens/Couro.jpg",
-        description: "Bota forte."
+        description: "Usado para várias coisas."
     },
     {
         name: "Ferro",
         image: "file:///F:/Minecraft/Itens/Iron.jpg",
-        description: "Bota forte."
+        description: "Minerio muito util."
     },
     {
         name: "Ouro",
         image: "file:///F:/Minecraft/Itens/Ouro.jpg",
-        description: "Bota forte."
+        description: "Minperio mediado."
     },
     {
         name: "Diamante",
@@ -43,7 +43,7 @@ const blocksAndItems = [
     {
         name: "Carvao",
         image: "file:///F:/Minecraft/Itens/Carvao.jpg",
-        description: "Material para queimar na fornalha."
+        description: "Material para queimar na fornalha e diversos outros crafts."
     },
     {
         name: "CapaceteCouro",
